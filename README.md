@@ -1,6 +1,7 @@
 # Heading Exploração e análise de dados de crédito com SQL
 
-## Nesse repositorio contém o notebook do projeto
+## Essa é só uma amostra do projeto nesse [link](https://github.com/leandrofassis/Credit_EDA/blob/main/Credit_EDA.ipynb) você encontra o notebok do projeto completo.
+https://github.com/leandrofassis/Credit_EDA/blob/main/Credit_EDA.ipynb
 
 
  
